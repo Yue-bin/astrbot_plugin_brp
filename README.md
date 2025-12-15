@@ -1,9 +1,3 @@
-# helloworld
+# bot 识别协议
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.app)
+先挖个坑在这，主要想法为互相回应对话超过n轮就开始握手，防止bot左脚踩右脚刷屏
